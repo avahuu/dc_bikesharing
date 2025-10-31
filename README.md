@@ -1,4 +1,5 @@
 Practice clean, visualize, explore, and analyze Bike-sharing data from Washington, D.C. 
+
 Variable	Description
 instant	unique ID
 dteday	date
